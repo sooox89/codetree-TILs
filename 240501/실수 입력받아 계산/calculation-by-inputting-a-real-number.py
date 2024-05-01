@@ -1,3 +1,4 @@
 a = float(input())
 b = float(input())
-print(a+b)
+sum = 0.2f(a+b)
+print(sum)
