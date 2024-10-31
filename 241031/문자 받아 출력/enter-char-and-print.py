@@ -1,3 +1,3 @@
-data = char(input())
+data = chr(input())
 
 print(data)
